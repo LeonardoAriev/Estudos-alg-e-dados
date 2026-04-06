@@ -1,0 +1,1 @@
+C:\Users\Léo\Estudos-alg-e-dados\target\debug\estudos-alg-e-dados.exe: C:\Users\Léo\Estudos-alg-e-dados\src\graph.rs C:\Users\Léo\Estudos-alg-e-dados\src\index.rs C:\Users\Léo\Estudos-alg-e-dados\src\main.rs C:\Users\Léo\Estudos-alg-e-dados\src\product.rs
